@@ -1,0 +1,2 @@
+PaintSaveFileVersion1.0
+EndPaintSaveFile

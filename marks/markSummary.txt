@@ -1,0 +1,61 @@
+Utorid: liuya106
+
+Scrum: 
+	Sprint backlogs: 5 / 5
+	GIT: 4  / 4
+	Daily Scrum: 1 / 1
+        -------------------------------------
+	Scrum Mark: 100 / 100 (equally weighted from above)
+
+
+P1Q1: 
+	GUI: 2 / 2
+	POLYLINE: 8 / 8
+        -------------------------------------
+	P1Q1 Mark: 10 / 10 (sum of above)
+
+P1Q2: 
+	Note: Save includes the mark for both passing our
+	tests as well as a few points related to
+	code quality.
+
+	Save: 7 / 8 
+        -------------------------------------
+	P1Q2 Mark: 4  / 5
+
+P1Q3: 
+	Note: Load includes marks for both passing our
+	tests as well as for code quality. 
+	We specifically looked for whether you stuck
+	to the FSM, without combining states, as well
+	as whether you captured some concepts. For example,
+	creating a function which parses Color, a function which
+	parses Filled: See the solution code.
+
+	Load: 7 / 10
+        -------------------------------------
+	P1Q3 Mark: 7 / 10
+
+Bonus: 
+	We were very particular about this question. 
+	We only gave marks for this if your solution 
+	was very similar to ours. See the solution code.
+
+	Bonus Mark: 0 / 5
+
+
+P2:     For more details, please see the marks.txt file.
+
+	FP: 7 / 9
+        -------------------------------------
+	P2 Mark: 7 / 9
+
+A3: To calculate this, we took your SCRUM
+	mark and weighed it 10% of P1Q1, P1Q2 and P1Q3.
+	We then added in all of the other marks for
+	a mark out of 34.
+
+	A3: 28 / 34
+        -------------------------------------
+	A3 Mark: 82 / 100
+

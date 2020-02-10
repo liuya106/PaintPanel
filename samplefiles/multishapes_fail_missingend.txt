@@ -1,0 +1,50 @@
+Paint Save File Version 1.0
+Circle
+	color:81,240,22
+	filled:false
+	center:(65,62)
+	radius:9
+End Circle
+Circle
+	color:25,76,32
+	filled:true
+	center:(123,58)
+	radius:11
+End Circle
+Squiggle
+	color:115,164,133
+	filled:true
+	points
+		point:(87,82)
+		point:(87,84)
+		point:(87,85)
+		point:(87,86)
+		point:(87,87)
+		point:(86,88)
+		point:(87,88)
+		point:(88,88)
+		point:(89,88)
+		point:(93,88)
+		point:(98,88)
+		point:(103,88)
+		point:(107,88)
+		point:(108,88)
+		point:(107,88)
+		point:(106,88)
+		point:(106,87)
+		point:(106,86)
+		point:(105,86)
+		point:(105,85)
+		point:(105,84)
+	end points
+End Squiggle
+Rectangle
+	color:36,18,161
+	filled:false
+	p1:(62,102)
+	p2:(138,110)
+End Rectangle
+End Paint Save File
+More Extra Content
+This is incorrect
+End should be end

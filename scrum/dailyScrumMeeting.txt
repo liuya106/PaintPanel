@@ -1,0 +1,93 @@
+# Fill in, commit and push each day.
+# Group Member: Yang Liu
+
+Nov 20, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 21, 2019
+	Yesterday :
+	Today     :us3.0
+	Obstacles :setup configuration
+
+Nov 22, 2019
+	Yesterday :us3.0
+	Today     :us3.1
+	Obstacles :understand the mechanism of different patterns used in this project
+	
+Nov 23, 2019
+	Yesterday :figure out the Observable pattern between PaintModel, PaintPane and Commands 
+	Today     :us3.1
+	Obstacles :facing a little bug of null pointer exception
+
+Nov 24, 2019
+	Yesterday :us3.1 and fixed the bug
+	Today     :Bug3.1
+	Obstacles :same color for same polylines objects
+
+Nov 25, 2019
+	Yesterday :Bug3.1
+	Today     :Bug3.11 and us3.2
+	Obstacles :understand how fileIO actually work.
+
+Nov 26, 2019
+	Yesterday :Bug3.11 and us3.2
+	Today     :us3.3
+	Obstacles :apply regular expression in coding
+	
+Nov 27, 2019
+	Yesterday :figure out what need to be done to achieve us3.3
+	Today     :us3.3 regex part
+	Obstacles :how to express integer under 256
+	
+Nov 28, 2019
+	Yesterday :us3.3 regex part
+	Today     :us3.3 FSM part
+	Obstacles :design a common feasible way for different shape 
+	
+Nov 29, 2019
+	Yesterday :designed a common feasible way for different shape 
+	Today     :us3.3 FSM part
+	Obstacles :
+
+Nov 30, 2019
+	Yesterday :us3.3 FSM part
+	Today     :finish up us3.3
+	Obstacles :FSM structural problem.
+
+Dec 1, 2019
+	Yesterday :finished us3.3
+	Today     :bug3.4
+	Obstacles :
+	
+Dec 2, 2019
+	Yesterday :
+	Today     :review for sta256
+	Obstacles :
+
+Dec 3, 2019
+	Yesterday :review for sta256
+	Today     :fix bug3.31
+	Obstacles :parser structural problem
+
+Dec 4, 2019
+	Yesterday :fix bug3.31
+	Today     :finish up floating point question, adding more docstrings
+	Obstacles :nothing
+	
+Dec 5, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 7, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	

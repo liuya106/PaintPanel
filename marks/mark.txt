@@ -1,0 +1,62 @@
+Commit ID: 576090df761d12810f770eebe6cceeec2841cf4d
+sprintBacklogs   5 / 5
+	[Y] Majority/all of User stories in springBacklog has priorities filled out
+	[Y] Majority/all of User stories in springBacklog has estimate filled out
+	[Y] Majority/all of User stories in springBacklog has Status filled out
+	[Y] Majority/all of User stories in springBacklog has owners filled out
+	[Y] Majority/all of User stories in springBacklog has issues filled out
+
+Git   4 / 4
+	[Y] Branches on user stories (With reasonable naming convention)
+	[Y] No/little code commits on master
+	[Y] Merges back to master
+	[Y] Git history looks relatively straightforward
+
+Gui   2 / 2
+	[Y] able to run GUI based on lab machines configuration of JavaFX
+	[Y] Majority/all of the mouse listeners work (Polyline, Save, Load)
+
+POLYLINE   8 / 8
+	[Y] Creates a PolyLineCommand Class
+	[Y] PolyLineCommand extends PaintCommand
+	[Y] PolyLineCommand has execute method (Must be void and needs GraphicsContext as param)
+	[Y] Create a PolyLineStrategy class
+	[Y] PolyLineStrategy extends ShapeManipulatorStrategy
+	[Y] PolyLineStrategy implements mouseMoved
+	[Y] PolyLineStrategy implements mousePressed/mouseClicked
+	[Y] Modify ShapeManipulatorFactory to create new PolyLineStrategy
+
+Floating Point   7 / 9
+	[Y] Q1F1
+	[Y] Q2F1
+	[Y] Q2F2
+	[Y] Q2F3
+	[N] Q3 Float a
+	[N] Q3 Float b
+	[Y] Q3 a > b && b>0f
+	[Y] Q3F3
+	[Y] Q3F4
+
+LOAD   7.0 / 10
+	[6.0 / 6] Load Tests Passed
+	[Y] Checks color 255 or 256 (0.5)
+	[Y] Creates a small amount of new Points (0.5)
+	[N] Sets Color once (0.5)
+	[N] No parseInts (0.5)
+	[N] Between 15 and 30 Cases (1)
+	[N] No String Methods (1)
+
+ 
+ 
+SAVE   7 / 8
+	[Y] Not using instanceof
+	[Y] Not using toString
+
+
+Daily Scrum Meeting   1 / 1
+
+Visitor	0 / 5
+	(BONUS) BUG 3.4: Visitor 1 Drawing	0 / 3
+	(BONUS) BUG 3.5: Visitor 2 Save 	0 / 2
+
+NOTES: 

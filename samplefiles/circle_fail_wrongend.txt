@@ -1,0 +1,8 @@
+Paint Save File Version 1.0
+Circle
+	color:255,0,0
+	filled:true
+	center:(123,58)
+	radius:11
+EndRectangle
+End Paint Save File
