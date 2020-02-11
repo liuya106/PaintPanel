@@ -1,2 +1,3 @@
 # paint
-207 A3
+Circle, Rectangle, Squiggle and polyline drawing
+Save and Read painting file
